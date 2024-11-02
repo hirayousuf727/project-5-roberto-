@@ -1,0 +1,125 @@
+.one{
+    background-color: teal;
+}
+.one:hover{
+    cursor: pointer;
+}
+.active{
+    margin-left: 300px;
+}
+.ms-5{
+    background-color: teal;
+}
+.carousel{
+    margin-left: -300px;
+    position: relative;
+}
+.d-block{
+    height: 600px;
+}
+.txt{
+    position: absolute;
+    color: black;
+    top: 250px
+    ;
+    bottom: 40px;
+    margin-left: 120px;
+    
+}
+.txt h2{
+    margin-left: 50px;
+}
+.txt h2:hover{
+    color: rgba(6, 204, 204, 0.74);
+    box-shadow: 0px 20px 20px white, 0px 20px 20px teal ;
+
+}
+.txt h1:hover{
+    color: rgba(6, 204, 204, 0.74);
+    box-shadow: 0px 20px 20px white, 0px 20px 20px teal ;
+    
+}
+.txt button{
+    background-color: teal;
+    border: 1px solid teal ;
+    margin-left: 50px;
+    width: 170px;
+    height: 60px;
+}
+.txt button:hover{
+    box-shadow: 0px 20px 20px white, 0px 20px 20px teal ;
+    background-color: none;
+    color: white;
+    font-weight: 100px bold ;
+}
+.about{
+    background-color: rgb(15, 223, 223);
+    color: white;
+}
+span{
+    color: teal;
+}
+.about h2{
+    margin-left: 10px;
+}
+.about h1{
+    margin-left: 10px;
+}
+.about h3{
+    margin-left: 10px;
+}
+.about p{
+    margin-left: 10px;
+}
+.made{
+    background-color: white;
+    color: teal;
+}
+.text{
+    margin-left: 10px ;
+    text-transform: capitalize;
+}
+.made button{
+    background-color: white;
+    color: teal;
+    margin: 10px;
+}
+.made button:hover{
+    background-color: teal;
+    color: white;
+    box-shadow: 0px 20px 20px white, 0px 20px 20px teal ;
+}
+.Room{
+    background-color: teal;
+    color: white;
+
+}
+
+.Room span{
+    color: rgb(15, 221, 221);
+    margin-left: 10px;
+}
+.Room button{
+    background-color: rgb(8, 238, 238);
+    color: white;
+    margin :10px;
+}
+.Room button:hover{
+    background-color: white;
+    color: teal;
+    box-shadow: 20px 0px 20px white, 0px 20px 20px teal ;
+}
+.icon{
+    background-color: white;
+    background-color: white;
+    color: teal;
+    padding: 10px;
+}
+.i{
+    margin: 10px;
+
+}
+.ri-facebook-fill{
+    margin-left: 70px;
+}
+
